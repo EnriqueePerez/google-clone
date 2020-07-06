@@ -1,12 +1,11 @@
-# Google Clon
+# Google Clone
 
 This was made in order to practice some HTML and CSS.
 
-There are two branches, the **master** and the **altVersion**
+There are two branches, the **master** and the **2ndVersion**
 
-master is the first version, it is not as accurate with some styles.
+- 2ndVersion is the first attempt, it is not as accurate with some styles.
 
-altVersion is almost indentical as the google page and it has upgrades with some HTML tags.
+- master is almost indentical as the google page and it has upgrades with some HTML tags.
 
-[Here]() you can see the first version
-[Here]() you can see the second version
+[Here](https://enriqueeperez.github.io/google-clone/index.html) you can see the final version
